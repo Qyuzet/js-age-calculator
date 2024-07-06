@@ -3,6 +3,11 @@
 ## Overview
 
 The **JS Age Calculator** is a web application designed to calculate a person's age based on their date of birth. This project, built using JavaScript, HTML, and CSS, demonstrates essential front-end development skills and provides a practical tool for users to determine their exact age in years, months, and days.
+[TRY NOW!](https://qyuzet.github.io/js-age-calculator/)
+
+
+![image](https://github.com/Qyuzet/js-age-calculator/assets/93258081/8fbf2ae3-3b29-483c-a67e-fb6e3acb4a85)
+
 
 ## Features
 
